@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="40" viewBox="0 0 155 40" role="img" aria-label="LinkedIn">
+  <rect width="155" height="40" fill="#0077B6"/>
+  <g fill="#ffffff" font-family="Arial, sans-serif" font-weight="700">
+    <circle cx="22" cy="20" r="11" fill="#ffffff">
+      <animate attributeName="r" values="11;12;11" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="16" y="25" fill="#0077B6" font-size="13">in</text>
+    <text x="43" y="25" font-size="13" letter-spacing="1.4">LINKEDIN</text>
+  </g>
+</svg>

@@ -92,24 +92,30 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img src="assets/stats-pulse.svg" alt="Animated GitHub statistics divider" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratikpandey15&show_icons=true&theme=transparent&title_color=00B4D8&icon_color=00B4D8&text_color=8ECAE6&border_color=0077B6" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpandey15&theme=transparent&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=8ECAE6&dates=8ECAE6&border=0077B6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikpandey15&bg_color=0B1020&color=8ECAE6&line=00B4D8&point=ffffff&area_color=0077B6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
 ## 🌐 Connect with me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Let's+connect+and+build+something+great;Open+to+collaborations+and+conversations&center=true&width=650&height=50&color=00B4D8&vCenter=true&duration=3000&pause=1200&repeat=true" alt="Animated connection message" />
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/pratikpandey15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="assets/linkedin-badge.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pratikpandey15" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-023047?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="assets/github-badge.svg" alt="GitHub" />
   </a>
 </p>
 
