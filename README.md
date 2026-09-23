@@ -101,6 +101,10 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
 ## 🌐 Connect with me
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Let's+connect+and+build+something+great;Open+to+collaborations+and+conversations&center=true&width=650&height=50&color=00B4D8&vCenter=true&duration=3000&pause=1200&repeat=true" alt="Animated connection message" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/pratikpandey15" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
