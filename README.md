@@ -1,7 +1,9 @@
-<h1 align="center" style="color:#e6f7ff;">Pratik Pandey</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:0077B6,100:00B4D8&height=180&section=header&text=Pratik%20Pandey&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" alt="Animated blue header with the name Pratik Pandey" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Electronics+%26+Computer+Science+Student;Digital+Design+%26+VLSI+Enthusiast;Software+Developer;Hardware+%2B+Software+Builder&center=true&width=900&height=100&color=00b4d8&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Electronics+%26+Computer+Science+Student;Digital+Design+%26+VLSI+Enthusiast;Software+Developer;Hardware+%2B+Software+Builder&center=true&width=900&height=100&color=00b4d8&vCenter=true&duration=3000&pause=1000&repeat=true" alt="Animated text describing Pratik's interests" />
 </p>
 
 <p align="center">
