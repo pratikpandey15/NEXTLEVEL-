@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m an Electronics and Computer Science undergraduate who enjoys exploring the full spectrum of technology — from digital logic and semiconductors to software systems and product thinking.
 
@@ -24,7 +24,7 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
 
 ---
 
-## 🔥 Highlights
+##  Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projects-3%2B-0F4C75?style=for-the-badge" />
@@ -34,13 +34,13 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 <table align="center">
   <tr>
     <td width="50%">
 
-### 🔌 Electronics & Hardware
+###  Electronics & Hardware
 
 - Semiconductor Devices
 - Digital Electronics
@@ -53,7 +53,7 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
     </td>
     <td width="50%">
 
-### 💻 Software & Development
+###  Software & Development
 
 - C++
 - Python
@@ -70,7 +70,7 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-0F4C75?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -89,7 +89,7 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="assets/stats-pulse.svg" alt="Animated GitHub statistics divider" />
@@ -106,7 +106,7 @@ I’m especially interested in VLSI, embedded systems, digital design, and softw
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 
 
